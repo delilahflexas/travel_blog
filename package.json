@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync.git"
+    "url": "git+https://github.com/shakyShane/jekyll-gulp-sass-browser-sync.git"
   },
   "keywords": [
     "jekyll",
@@ -28,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync/issues"
   },
-  "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync"
+  "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync",
+  "dependencies": {
+    "browser-sync": "^1.9.2",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-autoprefixer": "^1.0.0"
+  }
 }
