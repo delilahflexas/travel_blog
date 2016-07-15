@@ -7,7 +7,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Delilah's Passport
 email: delilahflexas@gmail.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/travel_blog" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
 url: "https://cisnerosoc.github.io/travel_blog/"
