@@ -1,0 +1,24 @@
+# Default, Defaults
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: Delilah's Passport
+email: delilahflexas@gmail.com
+description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+# Where can people find your site?
+url: "http://localhost:3000"
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter: https://www.instagram.com/dflexas/
+facebook:
+google:
+instagram: https://www.instagram.com/dflexas/
+
+author: Delilah Flexas
+authorBio: hello world
