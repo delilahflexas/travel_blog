@@ -4,7 +4,6 @@ title:  “Supposed to” Life
 date:   2016-07-11
 description: “Supposed to” Life
 thumbnail: ocean_front.jpg
-categories: travel
 
 # Information for the author block
 author: Delilah Flexas
