@@ -9,7 +9,7 @@ email: delilahflexas@gmail.com
 
 # Where can people find your site?
 url: "https://delilahflexas.github.io/travel_blog"
-baseurl: "/travel_blog"
+baseurl: "/"
 url-pretty: "delilahflexas.github.io/travel_blog"
 
 # When developing, set this ^ equal to whatever localhost you're using
