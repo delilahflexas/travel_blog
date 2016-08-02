@@ -1,7 +1,6 @@
 ---
 title: my aha moment
-layout: post
-date: '2016-08-01 20:43:00'
+date: '2016-08-01 00:00:00'
 layout: post
 thumbnail: iceland_blog_cover.jpg
 author: Delilah Flexas
