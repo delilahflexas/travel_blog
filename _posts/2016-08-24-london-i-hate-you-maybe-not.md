@@ -2,6 +2,8 @@
 title: 'London I Hate You, Maybe Not '
 date: '2016-08-12 17:42:00'
 layout: post
+author: Delilah Flexas
+thumbnail: london_i_hate_you_blog_cover.jpg
 ---
 London, second stop on my trip around the world. I arrive to my hostel after 2 hours in customs and a 45min tube ride with no absolutely no AC where I would of thoroughly enjoyed throwing my crap out the window and stripping down. I decide to take a walk through London, I have literally no idea where I am going just head out to walk through the streets. I end up on a street that’s full of British flags and red double decker buses and think this is awesome I officially feel like I am in London. As I begin to walk further the streets are beyond crowded, I’m talking Michigan Ave (or 5th Ave for my fellow NYC peeps) during Christmas shopping frenzy. Little to my knowledge Oxford street was the name and it’s a Saturday the busiest time to walk down this street. I proceed to walk into H&M to “cool off” and to my surprise there is NO AC in H&M, I am in shock and decide to go to the store directly next to it and the same situation, and the store after that and the one after that one. SERIOUSLY?!? I want to walk into a freezer. London I HATE YOU right now. I continued wandering the streets when really all I wanted to do at that moment was escape London and go back to the cool breeze of Iceland. I meet with my cousin Yasmin who is working on her masters in London and her boyfriend for dinner. Although it’s only been 6 days that I’ve been gone it was still very nice to see a familiar face. I had my first traditional British pub meal a pie and beer sampler, it was very delicious. After dinner we continue on to another pub for some local beers then head our ways. 
 
